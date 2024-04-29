@@ -1,6 +1,7 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome   this Project about understandin how does THE BLOCKCHAIN work this is a simple way to design a BLOCKCHAIN 
+you can copy the code or use the code from the URL in the about section . :) 
 
 ## Folder Structure
 
